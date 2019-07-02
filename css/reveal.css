@@ -1596,3 +1596,10 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+.reveal .slide-number {
+  top: 40pt;
+  right: 40pt;
+  background-color: transparent;
+  font-size: 30pt;
+  color: #77dd77; }
