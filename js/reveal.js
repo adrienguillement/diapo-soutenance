@@ -39,7 +39,7 @@
 
 			// The "normal" size of the presentation, aspect ratio will be preserved
 			// when the presentation is scaled to fit different resolutions
-			width: 960,
+			width: 700,
 			height: 700,
 
 			// Factor of the display size that should remain empty around the content
@@ -101,6 +101,12 @@
 
 			// Enable keyboard shortcuts for navigation
 			keyboard: true,
+			keyboard: {
+				37: 'prev',
+				38: 'prev',
+				39: 'next',
+				40: 'next'
+			},
 
 			// Optional function that blocks keyboard events when retuning false
 			keyboardCondition: null,
