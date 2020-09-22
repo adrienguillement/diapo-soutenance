@@ -26,3 +26,8 @@ Want to create your presentation using a visual editor? Try the official reveal.
 MIT licensed
 
 Copyright (C) 2011-2020 Hakim El Hattab, https://hakim.se
+
+
+adrienguillement.fr
+
+suspicious-montalcini-40cab7.netlify.app
